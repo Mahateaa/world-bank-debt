@@ -1,0 +1,1 @@
+In this project, I analyzed the World Bank's international debt dataset to understand the global debt burden on developing countries. I found that 124 countries owe a total of approximately $3.08 trillion, with China being the largest debtor, holding $285.79 billion in debt.
